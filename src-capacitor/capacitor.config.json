@@ -1,0 +1,9 @@
+{
+  "appId": "app.todo",
+  "appName": "Quasar App",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "url": "http://192.168.0.143:9500"
+  }
+}
